@@ -1,0 +1,17 @@
+{
+
+
+
+    "baseUrl": "base url is here",
+    "watchFileChanges":false,
+    "viewPortWidth" : 1000,
+    "viewPortHeight" : 600,
+    "waitForAnimation" : true,
+    "animationDistanceThreshold" : 20,
+    "defaultCommmandTimeout" : 5000,
+    "exactTimeout" : 60000,
+    "requestTimeout" : 15000,
+    "responseTimeout" : 150000,
+    "video":false,
+    "failOnStatusCode":false
+}
